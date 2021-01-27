@@ -1,3 +1,5 @@
 {
-  "showMessage": true
+  "showMessage": true,
+  "message": "Ovo je poruka",
+  "imageUrl" : "https://www.pskmobile.hr/assets/img/kladionica_splash.jpg"
 }
