@@ -105,7 +105,7 @@
       "verticalThumbnailId": "60114b0199630f3c46a1745c",
       "gameInfoThumbnailId": "60114b0a99630f3c46a1746e",
       "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&deliveryPlatform=Native Proprietary&backurl=https://casino.psk.hr/vegas/lobby",
-      "name": "Premium French Roulette ",
+      "name": "Premium French Roulette ",
       "nativeGame": false,
       "jackpotCarousel": true,
       "hot": false,
@@ -572,7 +572,7 @@
       "verticalThumbnailId": "6034df7af8fb8732db223573",
       "gameInfoThumbnailId": "6034dfc7f8fb8732db223585",
       "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&deliveryPlatform=Native Proprietary&backurl=https://casino.psk.hr/vegas/lobby",
-      "name": "Penny Roulette ",
+      "name": "Penny Roulette ",
       "nativeGame": true,
       "jackpotCarousel": false,
       "hot": false,
@@ -616,6 +616,20 @@
       "gameInfoThumbnailId": "60114fc799630f3c46a175ce",
       "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&deliveryPlatform=Native Proprietary&backurl=https://casino.psk.hr/vegas/lobby",
       "name": "Age of the Gods: King of Olympus",
+      "nativeGame": true,
+      "jackpotCarousel": false,
+      "hot": false,
+      "popular": false,
+      "new": false
+    },
+    {
+      "id": "606dbf487e13bb3e95f21d38",
+      "gameCode": "gpas_betwilds_pop",
+      "urlType": "vegas_native_GPAS_REAL",
+      "verticalThumbnailId": "606dbf387e13bb3e95f21d25",
+      "gameInfoThumbnailId": "606dbf437e13bb3e95f21d37",
+      "demoUrl": "https://games.psk.hr/casinomobile/casinoclient.html?game=[gamecode]&real=0&lang=HR&cat=GPAS&deliveryPlatform=Native&backUrl=https://casino.psk.hr/vegas/lobby/",
+      "name": "Better Wilds",
       "nativeGame": true,
       "jackpotCarousel": false,
       "hot": false,
@@ -673,9 +687,9 @@
          "6011426999630f3c46a17414",
          "6011393899630f3c46a1740f",
          "6011394d99630f3c46a17410",
-         "6011351699630f3c46a17407"
+         "6011351699630f3c46a17407",
+         "606dbf487e13bb3e95f21d38"
        ]
      }
    ]
  }
- 
